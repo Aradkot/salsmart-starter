@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "salsmart": {
+      "type": "http",
+      "url": "https://salsmart.com/mcp"
+    }
+  }
+}
